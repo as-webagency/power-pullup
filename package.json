@@ -1,0 +1,28 @@
+{
+  "name": "power-pullup",
+  "version": "1.0.0",
+  "description": "Landing Page - \"POWER PULLUP - Турники для дома\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as-webagency/power-pullup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/as-webagency/power-pullup/issues"
+  },
+  "homepage": "https://github.com/as-webagency/power-pullup#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-minify": "^3.1.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-tinypng-compress": "^1.2.5"
+  }
+}
